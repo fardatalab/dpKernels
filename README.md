@@ -1,4 +1,4 @@
-# DP-Kernels
+# dpKernels
 
 dpKernels are new computing pritmitives that harvest DPU compute resources for data-path efficiency in cloud data processing.
 
